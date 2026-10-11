@@ -1,4 +1,4 @@
-# 🏛️ Modelo de PDTI Higienizado para Prefeituras
+# 🏛️ Modelo de PDTI para Prefeituras
 
 Bem-vindo(a) ao repositório do **Modelo de Plano Diretor de Tecnologia da Informação (PDTI)** voltado para a administração pública municipal. 
 
